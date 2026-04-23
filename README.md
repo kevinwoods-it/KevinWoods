@@ -19,7 +19,7 @@ Currently sitting for the **AZ-104 (Azure Administrator Associate)**.
 - **Virtualization**: VMware vSphere 6.5-8.0, ESXi, vCenter, Hyper-V
 
 ## Certifications
-- Microsoft Certified: Azure Fundamentals (AZ-900), **Azure Administrator Associate (AZ-104)**
+- Microsoft Certified: Azure Fundamentals (AZ-900), Azure Administrator Associate (AZ-104) -in progress
 - MCSE: Server Infrastructure
 - VMware VCP-DCV 6.5
 - ITIL Foundation v3
