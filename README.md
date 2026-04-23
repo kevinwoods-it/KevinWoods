@@ -28,8 +28,7 @@ Currently sitting for the **AZ-104 (Azure Administrator Associate)**.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Azure Hybrid Identity & Security Baseline](https://github.com/KevinNYC1021/azure-hybrid-identity-baseline) | Entra ID + Conditional Access + MFA deployment scripts | PowerShell, Entra ID |
-| [Azure VM Backup & DR Runbook](../azure-backup-dr-runbook) | ASR + Azure Backup policies and restore documentation | Azure Backup, ASR |
-| [PowerShell Azure Admin Toolkit](../powershell-azure-admin-toolkit) | Automation scripts for user provisioning, compliance, and reporting | PowerShell, Azure CLI |
-
+| [Azure VM Backup & DR Runbook](https://github.com/KevinNYC1021/azure-backup-dr-runbook) | ASR + Azure Backup policies and restore documentation | Azure Backup, ASR |
+| [PowerShell Azure Admin Toolkit](https://github.com/KevinNYC1021/powershell-azure-admin-toolkit) | Automation scripts for user provisioning, compliance, and reporting | PowerShell, Azure CLI |
 ---
-*Open to Senior Azure Administrator and Cloud Engineer opportunities in NYC/NJ metro.*
+*Open to Senior Azure Administrator and Cloud Engineer opportunities Remote or in NYC/NJ metro.*
