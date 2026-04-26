@@ -28,6 +28,7 @@ Currently sitting for the **AZ-104 (Azure Administrator Associate)**.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Azure Hybrid Identity & Security Baseline](https://github.com/KevinNYC1021/azure-hybrid-identity-baseline) | Entra ID + Conditional Access + MFA deployment scripts | PowerShell, Entra ID |
+| [M365 License Optimization Automation](https://github.com/kevinwoods-it/m365-license-optimization-automation) | Role-based license assignment — $420K annual savings modeled |
 | [Azure VM Backup & DR Runbook](https://github.com/KevinWoods-IT/azure-backup-dr-runbook) | ASR + Azure Backup policies and restore documentation | Azure Backup, ASR |
 | [PowerShell Azure Admin Toolkit](https://github.com/KevinWoods-IT/powershell-azure-admin-toolkit) | Automation scripts for user provisioning, compliance, and reporting | PowerShell, Azure CLI |
 ---
