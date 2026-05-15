@@ -5,7 +5,7 @@
 ## About Me
 Senior Azure Administrator based in New Jersey with hands-on experience deploying
 and managing enterprise Azure environments, hybrid identity, Microsoft 365,
-and infrastructure automation. Background spans healthcare, commercial, and
+infrastructure automation and migrations. Background spans healthcare, commercial, and
 financial services organizations.
 
 Currently sitting for the **AZ-104 (Azure Administrator Associate)**.
